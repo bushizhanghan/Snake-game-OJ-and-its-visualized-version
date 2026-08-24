@@ -1,0 +1,32 @@
+# ===== Visual Studio / MSVC（可视化版） =====
+.vs/
+x64/
+Debug/
+Release/
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.log
+*.tlog/
+*.recipe
+*.exe
+*.ipch
+Thumbs.db
+ehthumbs.db
+
+# ===== 运行时存档（程序自动生成） =====
+*.dat
+
+# ===== C 编译产物（OJ 版，如有本地构建） =====
+*.o
+snake
+snake.exe
+
+# ===== 编辑器 / 系统临时文件 =====
+~$*
+.DS_Store
